@@ -12,6 +12,8 @@ Demonstra informações da Cidade pelo código IBGE ou pelo código TOM.
 
 Neste pacote python temos o código IBGE, código TOM e o nome da Cidade relacionado.
 
+[![asciicast](https://asciinema.org/a/519647.svg)](https://asciinema.org/a/519647)
+
 ## Instalação
 
 ```bash
