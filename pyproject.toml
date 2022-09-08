@@ -1,7 +1,9 @@
 [tool.poetry]
 name = "cidade_ibge_tom"
-version = "0.1.0"
+version = "0.1.1"
 description = "Informações da Cidade pelo IBGE ou TOM"
+license = "MIT"
+readme = "README.md"
 authors = ["Leonardo Gregianin <leogregianin@gmail.com>"]
 
 [tool.poetry.dependencies]

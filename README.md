@@ -1,5 +1,5 @@
 # cidade_ibge_tom
-[![PyPI](https://img.shields.io/pypi/v/cidade_ibge_tom)](https://pypi.org/project/cidade_ibge_tom/) ![pyversions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue) ![https://github.com/leogregianin/cidade_ibge_tom/actions](https://github.com/leogregianin/cidade_ibge_tom/workflows/main/badge.svg?branch=main)
+[![PyPI](https://img.shields.io/pypi/v/cidade_ibge_tom)](https://pypi.org/project/cidade_ibge_tom/) ![pyversions](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue) ![https://github.com/leogregianin/cidade_ibge_tom/actions](https://github.com/leogregianin/cidade_ibge_tom/workflows/CI/badge.svg?branch=main)
 
 
 ## Cidade IBGE TOM
