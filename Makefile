@@ -10,8 +10,8 @@ mypy:
 
 .PHONY: test
 test:
-	pytest tests/
+	poetry run pytest tests/
 
 .PHONY: coverage
 cov:
-	pytest --cov=. tests/
+	poetry run pytest -vv --cov=. tests/
